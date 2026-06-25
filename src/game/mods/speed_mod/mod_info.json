@@ -1,0 +1,7 @@
+{
+    "name": "SpeedMod - Demo",
+    "version": "1.0.0",
+    "author": "PyEx Test",
+    "entry_point": "mod.py",
+    "dependencies": []
+}
